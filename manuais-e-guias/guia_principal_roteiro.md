@@ -27,10 +27,13 @@
   - Open Research
     - Open Data, Open Access
   - Research Data Management
-    - Research Data, Finding Data, Documentation and Metadata, Methods and Protocols, Electronic Lab Notebooks
+    - Research Data, Finding Data, Documentation and Metadata, Methods and Protocols
   - Reproducible Environments and subtopics
   - Code Documentation
     - Documenting Code (Code Comments section), Project Documentation(README file)
+### Guide for Collaboration
+  - Getting Started to GitHub
+    - First Steps on GitHub
 
 ### Sugestões de Problemas:
   - Rosalind (logo e um print dessa página https://rosalind.info/problems/list-view/)
@@ -47,6 +50,9 @@
 ### Sugestões Complementares:
   Python para bioinformática
     [rosalind Python Vilage](https://rosalind.info/problems/list-view/?location=python-village)
-  
+
+  GitHub
+    [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    
   NextFlow (logo e breve descrição)
     
