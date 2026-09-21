@@ -31,7 +31,7 @@
   - Reproducible Environments and subtopics
   - Code Documentation
     - Documenting Code (Code Comments section), Project Documentation(README file)
-### Guide for Collaboration
+#### Guide for Collaboration
   - Getting Started to GitHub
     - First Steps on GitHub
 
