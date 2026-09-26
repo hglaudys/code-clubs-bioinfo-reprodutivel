@@ -13,7 +13,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	//"postCreateCommand": "eval \"$(conda shell.bash hook)\" &> log.txt && conda create -f buscadorOri_env.yaml && conda activate buscadorOri_env > log.txt",
-	"postStartCommand": "echo \"Teste\" &> teste2.log", // && (eval \"$(conda shell.bash hook)\" && conda create -f buscadorOri_env.yaml && conda activate buscadorOri_env)  &> log.txt",
+	"postCreateCommand": "echo \"Teste\" &> teste2.log", // && (eval \"$(conda shell.bash hook)\" && conda create -f buscadorOri_env.yaml && conda activate buscadorOri_env)  &> log.txt",
 	//"postCreateCommand": "pip3 install --user -r requirements.txt",
 	//"postCreateCommand": "./.devcontainer/encontro_29_09_26/configurar_ambiente.bash",
 
